@@ -6,12 +6,6 @@ This script processes images and associated questions to generate answers using 
 
 ##  Prerequisites
 
-### Install Required Dependencies
-Ensure you have Python 3 installed along with the necessary libraries:
-
-```bash
-pip install openai
-```
 Traverse to the directory in Death Star server
 ```bash
 cd /media/data_dump/Anwar/NuScenes-QA/Dushyant_Sujal/GPT_4o
