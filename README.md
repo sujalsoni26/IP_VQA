@@ -24,3 +24,10 @@ Execute the script
 ```bash
 python new.py
 ```
+
+---
+
+##  After use deactivate the virtual environment
+```bash
+conda deactivate
+```
