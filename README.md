@@ -16,7 +16,7 @@ conda activate gpt_venv
 ```
 Execute the script
 ```bash
-python new.py
+python script.py
 ```
 
 ---
