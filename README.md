@@ -6,6 +6,11 @@ This script processes images and associated questions to generate answers using 
 
 ##  Prerequisites
 
+Deactivate the base Virtual environment
+```bash
+conda deactivate
+```
+
 Traverse to the directory in Death Star server
 ```bash
 cd /media/data_dump/Anwar/NuScenes-QA/Dushyant_Sujal/GPT_4o
